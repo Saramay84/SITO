@@ -102,7 +102,7 @@ top: 64%;
   border-radius: 0;
 }
 .carousel-indicators .active {
-  background-color: #BC2A87;
+  background-color: #e0807c;
 }
 .caption h2{
 color: #FFFFFF;
@@ -407,7 +407,7 @@ p {
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    color: #bc2a87;
+    color: #E0807C;
     background-color: transparent;
     border-radius: 4px;
 }
@@ -614,7 +614,7 @@ div#main-nav {
 
 #service {
     padding: 60px 0px;
-    background: #BC2A87;
+    background: #E0807C;
 }
 #service h2{
   color: #fff;
@@ -650,11 +650,11 @@ div#main-nav {
     /* border: 1px solid #FFFFFF; */
     border-radius: 50%;
     padding: 6px 0 0;
-    background-color: #A92178;
+    background-color: #182645;
 }
 
 .service_icon i {
-  color: #FEE16F;
+  color: #ffffff;
 font-size: 40px;
 margin-top: 0;
 position: relative;
@@ -676,7 +676,7 @@ color:#fff;
 }
 .service_block p {
     font-size: 16px;
-    color: #FFC0E8;
+    color: #FFFFFF;
     margin: 0 0 35px 0;
 }
 
@@ -1364,7 +1364,7 @@ transition: all .3s;
     width: 175px;
     height: 50px;
     letter-spacing: 0px;
-    background: #FED93E;
+    background: #e0807c;
     border-radius: 3px;
     color: #000000;
     font-size: 16px;
@@ -1385,24 +1385,24 @@ transition: all .3s;
 ---------------------------------*/
 
 .footer_wrapper {
-    background: #BC2A87;
+    background: #182645;
 }
 
 .footer_bottom {
-    border-top: 1px solid #CE6CAB;
+    border-top: 1px solid #e0807c;
     padding: 25px 0;
 }
 
 .footer_bottom span {
     display: block;
     font-size: 14px;
-    color: #F1ADD9;
+    color: #e0807c;
     text-align: center;
 }
 
 .footer_bottom span a {
     display: inline-block;
-    color: #FDD83D;
+    color: #e0807c;
     font-size: 16px;
     transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
