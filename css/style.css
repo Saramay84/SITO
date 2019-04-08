@@ -102,7 +102,7 @@ top: 64%;
   border-radius: 0;
 }
 .carousel-indicators .active {
-  background-color: #e0807c;
+  background-color: #BC2A87;
 }
 .caption h2{
 color: #FFFFFF;
@@ -381,7 +381,7 @@ p {
 .navStyle ul li a {
     display: block;
     font-size: 15px;
-    color: #222222;
+    color: #22222;
     font-family: 'Raleway', sans-serif;
     text-decoration: none;
     text-transform: uppercase;
@@ -407,7 +407,7 @@ p {
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    color: #E0807C;
+    color: #bc2a87;
     background-color: transparent;
     border-radius: 4px;
 }
@@ -614,7 +614,7 @@ div#main-nav {
 
 #service {
     padding: 60px 0px;
-    background: #E0807C;
+    background: #172745;
 }
 #service h2{
   color: #fff;
@@ -650,11 +650,11 @@ div#main-nav {
     /* border: 1px solid #FFFFFF; */
     border-radius: 50%;
     padding: 6px 0 0;
-    background-color: #182645;
+    background-color: #A92178;
 }
 
 .service_icon i {
-  color: #ffffff;
+  color: #FEE16F;
 font-size: 40px;
 margin-top: 0;
 position: relative;
@@ -676,7 +676,7 @@ color:#fff;
 }
 .service_block p {
     font-size: 16px;
-    color: #FFFFFF;
+    color: #FFC0E8;
     margin: 0 0 35px 0;
 }
 
@@ -1364,7 +1364,7 @@ transition: all .3s;
     width: 175px;
     height: 50px;
     letter-spacing: 0px;
-    background: #e0807c;
+    background: #FED93E;
     border-radius: 3px;
     color: #000000;
     font-size: 16px;
@@ -1385,24 +1385,24 @@ transition: all .3s;
 ---------------------------------*/
 
 .footer_wrapper {
-    background: #182645;
+    background: #BC2A87;
 }
 
 .footer_bottom {
-    border-top: 1px solid #e0807c;
+    border-top: 1px solid #CE6CAB;
     padding: 25px 0;
 }
 
 .footer_bottom span {
     display: block;
     font-size: 14px;
-    color: #e0807c;
+    color: #F1ADD9;
     text-align: center;
 }
 
 .footer_bottom span a {
     display: inline-block;
-    color: #e0807c;
+    color: #FDD83D;
     font-size: 16px;
     transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
